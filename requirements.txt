@@ -1,0 +1,7 @@
+streamlit
+firecrawl-py
+langchain
+langchain-xai
+sentence-transformers
+chromadb
+python-dotenv
