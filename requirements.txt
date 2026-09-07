@@ -5,3 +5,4 @@ langchain-xai
 sentence-transformers
 chromadb
 python-dotenv
+langchain-groq
